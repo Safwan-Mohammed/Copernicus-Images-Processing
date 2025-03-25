@@ -1,0 +1,5 @@
+ee
+pandas
+google-auth
+geopandas
+earthengine-api
